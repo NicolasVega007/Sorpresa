@@ -1628,12 +1628,12 @@ html {
     color: rgb(0, 238, 255);
 }
 
-.img center{
+.center{
 
   width: 100%;
   align-self: center;
   display: flex;
   flex-direction: column;
-  
+
 }
   
