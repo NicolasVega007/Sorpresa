@@ -1624,6 +1624,7 @@ html {
     background-image: url("background/R.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     color: rgb(0, 238, 255);
 }
   
