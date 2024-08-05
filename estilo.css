@@ -1622,7 +1622,7 @@ html {
 
   body {
     background-image: url("background/R.jpg");
-    background-size: center center;
+    background-size: cover;
     background-repeat: no-repeat;
     color: rgb(0, 238, 255);
 }
