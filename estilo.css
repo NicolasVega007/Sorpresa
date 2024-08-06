@@ -1630,7 +1630,7 @@ html {
 
 .center{
 
-  width: 80px;
+  width: 80px; height: auto;
   align-self: center;
   display: flex;
   flex-direction: column;
